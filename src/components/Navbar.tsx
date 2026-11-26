@@ -25,7 +25,7 @@ const Navbar = () => {
           <FaGithub />
         </motion.a>
         <motion.a variants={container(0.9)} initial="hidden" animate="visible"
-          href="mailto:ananthumapookad@gmail.com" target='_blank'>
+          href="mailto:me@ananthuma.com" target='_blank'>
           <FaInbox />
         </motion.a>
         <motion.a variants={container(1.1)} initial="hidden" animate="visible"

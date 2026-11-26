@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-Proprietary-blue)
+![license](https://img.shields.io/badge/license-Proprietary-blue)
 
 ## About
 
@@ -51,4 +51,4 @@ This project is licensed under a proprietary license. Distribution or modificati
 
 - GitHub: [Ananthu-M-A](https://github.com/Ananthu-M-A)
 - Portfolio: [https://ananthuma.com](https://ananthuma.com)
-- Email: ananthumapookkad@gmail.com
+- Email: me@ananthuma.com

@@ -59,5 +59,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Govindam(H), Edakkulam(PO), Kozhikode-673306",
   phoneNo: "+91 9539272385",
-  email: "ananthumapookkad@gmail.com",
+  email: "me@ananthuma.com",
 };
